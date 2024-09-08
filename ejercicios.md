@@ -28,7 +28,7 @@
 
 - Crear un programa  que le pida al usuario dos números en un Prompt y luego muestre en un alerta el número mayor.
 
-- Crear un programa que le pida al usuario primero un  números al usuario a través de un prompt y luego un segundo número para luego mostrar en un alerta el número mayor, esta vez realizar el ejercicio ocupando un if ternario.
+- Crear un programa que le pida al usuario primero un números a través de un prompt y luego un segundo número para luego mostrar en un alerta el número mayor, esta vez realizar el ejercicio ocupando un if ternario.
 
 - Crear un programa que determine si un string introducido por un usuario empieza con un número o con una letra.
 
